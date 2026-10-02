@@ -5,7 +5,7 @@ flatmark converts PDF, Word, PowerPoint, Excel and HTML to Markdown over a REST 
 ## Repositories
 
 - [flatmark](https://github.com/flatmark-dev/flatmark): start here, for the MCP server, the Claude Code plugin and the API.
-- [flatmark-integrations](https://github.com/flatmark-dev/flatmark-integrations): n8n, Zapier, Make, Workato, Dify, SDKs and templates.
+- [flatmark-integrations](https://github.com/flatmark-dev/flatmark-integrations): n8n, Zapier, Make, Dify, SDKs and templates.
 - [flatmark-action](https://github.com/flatmark-dev/flatmark-action): use flatmark in GitHub Actions.
 
 ## Links
